@@ -5,3 +5,6 @@
 `
 print("Hello World!")
 `
+- [x] Introduction to GitHub
+- [ ] Communicate Using Markdown
+- [ ] GitHub Pages
